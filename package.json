@@ -1,0 +1,8 @@
+{
+  "name": "@askblocks/edu",
+  "version": "0.1.1",
+  "description": "AI-powered educational Q&A module for Askblocks",
+  "main": "index.js",
+  "author": "sxian1232",
+  "license": "MIT"
+}
